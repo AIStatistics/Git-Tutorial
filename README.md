@@ -9,3 +9,4 @@
  - git status
  - git branch
  - git merge
+ - git rebase
