@@ -8,3 +8,4 @@
  - git log
  - git status
  - git branch
+ - git merge
