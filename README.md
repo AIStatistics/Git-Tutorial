@@ -13,3 +13,6 @@
  - git remote -v
  - git show  ## show difference
  - git amend --no-edit
+** Q&A
+ - How to push a new local branch to the remote repository?
+   - git push origin local_branch
